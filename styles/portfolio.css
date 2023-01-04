@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+/* Title Part */
+.btn-hire{
+    color: white;
+    background-color: rgb(31, 61, 255);
+    height: 50px;
+    width: 150px;
+    font-size: larger;
+    font-weight: 15px;
+    border: 0;
+    padding: 5px 5px;
+}
+
+
+.nav-title{
+    font-size: 45px;
+    font-weight: 50px;
+}
+
+.span-color{
+    color: rgb(31, 61, 255);
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+nav li{
+    list-style: none;
+    margin-left: 52px;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+}
+
+.header{
+    background-image: url(../images/bgbg2);
+      
+}
+
+.anchor{
+    text-decoration: none;
+    color: rgb(31, 61, 255);
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+/* intro part */
+.intro-part{
+    margin: 10px 120px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.hi{
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.my-name{
+    font-size: 80px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.bio{
+    color: rgb(63, 63, 63);
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.my-img{
+    border: 1px solid rgb(31, 61, 255);
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* About me */
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.about-me{
+    margin-top: 150px;
+    background-color: rgb(181, 224, 255);
+    border-radius: 10px;
+    padding: 130px 150px;
+
+}
+
+.about-me-title{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+.about-me-para{
+    color: rgb(63, 63, 63);
+    font-size: 18px;
+    margin-bottom: 30px;
+
+}
+
+.about-info-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-title{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.info-description{
+    color: rgb(63, 63, 63);
+    font-size: 16px;
+
+}
+
+
+
+
+
